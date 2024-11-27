@@ -1,1 +1,2 @@
-_PenguinTube has been **discontinued**_
+_Introducing PenguinTube_
+PenguinTube is a fun video sharing / watching platform
